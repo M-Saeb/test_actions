@@ -13,7 +13,7 @@ on:
 jobs:
   build:
 
-    runs-on: odoo-13
+    runs-on: odoo
 
     steps:
     - uses: actions/checkout@v2
